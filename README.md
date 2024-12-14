@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in Java when iterating over arrays. The `Bug.java` file contains the erroneous code, resulting in an `ArrayIndexOutOfBoundsException`. The corrected code is provided in `BugSolution.java`, showcasing the proper loop condition to avoid this error. This example highlights the importance of careful array indexing in Java.
